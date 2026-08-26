@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0905-sort-array-by-parity](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -12,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0905-sort-array-by-parity](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
@@ -24,5 +26,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0905-sort-array-by-parity](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 <!---LeetCode Topics End-->
