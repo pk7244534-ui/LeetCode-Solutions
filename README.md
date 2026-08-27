@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0414-third-maximum-number](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0905-sort-array-by-parity](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0941-valid-mountain-array) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0905-sort-array-by-parity](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Sorting
