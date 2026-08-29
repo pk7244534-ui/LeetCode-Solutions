@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0414-third-maximum-number](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0643-maximum-average-subarray-i](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0905-sort-array-by-parity](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0905-sort-array-by-parity) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/pk7244534-ui/LeetCode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
